@@ -53,20 +53,17 @@ https://github.com/docker/docker-bench-security
 
 ---
 
-### Quiz
+### **Quiz**
 
-Question 1:
-What command is used to start Docker containers?
+**Question 1: What command is used to start Docker containers?**
 - Docker pull
-- **Docker run**
+- **```Docker run```**
 - Docker build
 
-Question 2:
-One Docker recommendation to secure your Docker containers would be to use minimal base images. True or false?
-- **True**
+**Question 2: One Docker recommendation to secure your Docker containers would be to use minimal base images. True or false?**
+- **```True```**
 - False
 
-Question 3:
-One Docker recommendation to secure your Docker containers would be to use .dockerignore files. True or false?
-- **True**
+**Question 3: One Docker recommendation to secure your Docker containers would be to use .dockerignore files. True or false?**
+- **```True```**
 - False
