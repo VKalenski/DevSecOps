@@ -54,4 +54,3 @@ Which encryption option is recommended when encrypting etcd?
 - Disabled
 - Local
 - **KMS**
-

@@ -117,5 +117,3 @@ How do CVEs and CVSS relate to one another?
 - **CVEs use CVSS as their standard for rating the severity of the individual vulnerability.**
 - CVSS uses CVEs as their standard for rating the severity of the individual vulnerability.
 - CVSS are a identifiers for publicly disclosed vulnerabilities.
-
-

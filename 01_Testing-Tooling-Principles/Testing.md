@@ -73,9 +73,3 @@ Which option is better suited when adding security testing to CI/CD pipelines as
 - Penetration testing tooling
 - CIA
 - **Vulnerablity assessment tooling**
-
-
-
-
-
-

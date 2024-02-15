@@ -17,6 +17,7 @@ When working with pipelines you should prefer to use YAML. True or false?
 - **True**
 - False
 
-
-
-
+Question 3:
+Spaces are used by YAML, not tabs. True or false?
+- **True**
+- False
