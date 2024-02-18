@@ -1,118 +1,128 @@
+# **Linux Security Fundamentals**
 
-### File Permissions
+### **File Permissions**
 
-https://linux.die.net/man/1/chmod
-
-https://linux.die.net/man/1/chown
-
----
-
-### Chmod explained
-
-https://chmod-calculator.com/
+- https://linux.die.net/man/1/chmod
+- https://linux.die.net/man/1/chown
 
 ---
 
-### File Permissions Demo
+### **Chmod explained**
 
-https://linux.die.net/man/1/chown
-
-https://linux.die.net/man/1/chmod
+- https://chmod-calculator.com/
 
 ---
 
-### Passwd file
+### **File Permissions Demo**
 
-https://man7.org/linux/man-pages/man1/passwd.1.html
-
----
-
-### Shadow file
-
-https://linux.die.net/man/5/shadow
+- https://linux.die.net/man/1/chown
+- https://linux.die.net/man/1/chmod
 
 ---
 
-### Group file
+### **Passwd file**
 
-https://linux.die.net/man/5/group
+- https://man7.org/linux/man-pages/man1/passwd.1.html
 
----
-
-### Sudo explained
-
-https://linux.die.net/man/8/sudo
+#### [🔼 Back to top](#linux-security-fundamentals)
 
 ---
 
-### Priviliege escalation
+### **Shadow file**
 
-https://github.com/rebootuser/LinEnum
+- https://linux.die.net/man/5/shadow
 
-https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
-
-https://pentestmonkey.net/tools/audit/unix-privesc-check
+#### [🔼 Back to top](#linux-security-fundamentals)
 
 ---
 
-### Automatic updates
+### **Group file**
 
-https://help.ubuntu.com/community/AutomaticSecurityUpdates
+- https://linux.die.net/man/5/group
 
-https://wiki.debian.org/UnattendedUpgrades
-
----
-
-### SSH
-
-https://linux.die.net/man/1/ssh
+#### [🔼 Back to top](#linux-security-fundamentals)
 
 ---
 
-### SSH recommedations
+### **Sudo explained**
 
-https://infosec.mozilla.org/guidelines/openssh
+- https://linux.die.net/man/8/sudo
 
-https://github.com/fail2ban/fail2ban
-
-https://denyhosts.sourceforge.net/
+#### [🔼 Back to top](#linux-security-fundamentals)
 
 ---
 
-### SSH Mozilla recommedations
+### **Priviliege escalation**
 
-https://infosec.mozilla.org/guidelines/openssh
+- https://github.com/rebootuser/LinEnum
+- https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
+- https://pentestmonkey.net/tools/audit/unix-privesc-check
 
----
-
-### Useful commands
-
-https://linux.die.net/man/1/man
-
-https://linux.die.net/man/1/cat
-
-https://linux.die.net/man/1/grep
-
-https://learn.microsoft.com/en-us/windows/wsl/
+#### [🔼 Back to top](#linux-security-fundamentals)
 
 ---
 
-### Quiz
+### **Automatic updates**
 
-Question 1:
-What file are the user passwords stored in on modern Linux distributions?
+- https://help.ubuntu.com/community/AutomaticSecurityUpdates
+- https://wiki.debian.org/UnattendedUpgrades
+
+#### [🔼 Back to top](#linux-security-fundamentals)
+
+---
+
+### **SSH**
+
+- https://linux.die.net/man/1/ssh
+
+#### [🔼 Back to top](#linux-security-fundamentals)
+
+---
+
+### **SSH recommedations**
+
+- https://infosec.mozilla.org/guidelines/openssh
+- https://github.com/fail2ban/fail2ban
+- https://denyhosts.sourceforge.net/
+
+#### [🔼 Back to top](#linux-security-fundamentals)
+
+---
+
+### **SSH Mozilla recommedations**
+
+- https://infosec.mozilla.org/guidelines/openssh
+
+#### [🔼 Back to top](#linux-security-fundamentals)
+
+---
+
+### **Useful commands**
+
+- https://linux.die.net/man/1/man
+- https://linux.die.net/man/1/cat
+- https://linux.die.net/man/1/grep
+- https://learn.microsoft.com/en-us/windows/wsl/
+
+#### [🔼 Back to top](#linux-security-fundamentals)
+
+---
+
+### **Quiz**
+
+**Question 1: What file are the user passwords stored in on modern Linux distributions?**
 - passwd file
-- **shadow file**
+- **```shadow file```**
 - userpassword file
 
 
-Question 2:
-When using SSH you will get a GUI by default. True or false?
+**Question 2: When using SSH you will get a GUI by default. True or false?**
 - True
-- **False**
+- **```False```**
 
-Question 3:
-One benefit of sudo is...
+**Question 3: One benefit of sudo is...**
 - It enables a GUI.
 - It enables automated updates.
-- **It prevents the need for all users to use the root user when escalating privileges.**
+- **```It prevents the need for all users to use the root user when escalating privileges.```**
+
+#### [🔼 Back to top](#linux-security-fundamentals)
